@@ -1,0 +1,14 @@
+.wrap {
+    width: 500px;
+    padding-top: 30px;
+    margin: 0 auto;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
